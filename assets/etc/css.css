@@ -1,17 +1,28 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat');
 
 
+/* .profilepic {
+  width: 200px;
+  height: 100px;
+  background-image: "assets/images/img-20230101.jpg";
+  transition: background-color 2s ease-out 100ms
+}
+
+.profilepic:hover {
+  background-image: 'assets/images/img-20230101.jpg';
+} */
+
+
 .types {
   font-family: 'Montserrat', sans-serif;
   color: #000;
 }
 
 .containers {
-font-weight: bold;
   font-size: 3rem;
   font-weight: bold;
   letter-spacing: 0.1rem;
-  text-align: center;
+  text-align: left;
   overflow: hidden;
 }
 

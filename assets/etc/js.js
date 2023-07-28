@@ -1,8 +1,8 @@
 const typedTextSpan = document.querySelector(".typed-text");
 const cursorSpan = document.querySelector(".cursor");
 
-const textArray = ["Hello!", "Merhaba!", "Welcome", "Hoş Geldiniz"];
-const typingDelay = 100;
+const textArray = ["Hello!", "Merhaba!","こんにちは!", "Welcome!", "Hoş Geldiniz!", "ようこそ!"];
+const typingDelay = 50;
 const erasingDelay = 100;
 const newTextDelay = 900; // Delay between current and next text
 let textArrayIndex = 0;
